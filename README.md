@@ -1,4 +1,10 @@
 # myPractice
-This repo is for my practice purpose...
-
-i need to get this code in to my gitbash...
+1
+2
+3
+4
+5
+6
+7
+8
+9
